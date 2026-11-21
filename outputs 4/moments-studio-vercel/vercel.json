@@ -1,6 +1,0 @@
-{
-  "cleanUrls": true,
-  "crons": [
-    { "path": "/api/bridge-cleanup", "schedule": "0 3 * * *" }
-  ]
-}

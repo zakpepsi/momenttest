@@ -1,9 +1,0 @@
-{
-  "name": "moments-bridge",
-  "version": "0.1.0",
-  "private": true,
-  "type": "module",
-  "scripts": {"build": "node -e \"console.log('Static bridge shell ready')\"", "ios": "npx cap open ios", "android": "npx cap open android"},
-  "dependencies": {"@capacitor/android":"^8.0.0","@capacitor/app":"^8.0.0","@capacitor/core":"^8.0.0","@capacitor/ios":"^8.0.0"},
-  "devDependencies": {"@capacitor/cli":"^8.0.0"}
-}
