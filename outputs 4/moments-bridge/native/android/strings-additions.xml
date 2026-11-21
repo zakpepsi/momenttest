@@ -1,0 +1,2 @@
+<!-- Add this resource to android/app/src/main/res/values/strings.xml. -->
+<string name="facebook_app_id">YOUR_META_APP_ID</string>
